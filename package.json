@@ -1,0 +1,30 @@
+{
+  "name": "liri2",
+  "version": "1.0.0",
+  "description": "Liri",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0",
+    "spotify-api": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kellerb77/LIRI2.git"
+  },
+  "keywords": [
+    "Liri"
+  ],
+  "author": "Ben Keller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kellerb77/LIRI2/issues"
+  },
+  "homepage": "https://github.com/Kellerb77/LIRI2#readme"
+}

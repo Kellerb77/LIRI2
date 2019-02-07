@@ -1,0 +1,38 @@
+================= LIRI SAYS...==================
+    Song Name: "It wasn't me" 
+    Album Name:  Hot Shot
+    Artist Name: Shaggy 
+    URL:  
+------------------------------------------------------------
+
+
+    Title: Sully 
+    Year: 2016 
+    Rated: PG 
+    Country: USA 
+    Language: English 
+    Plot: On Jan. 15, 2009, Capt. Chesley "Sully" Sullenberger (Tom Hanks) tries to make an emergency landing in New York's Hudson River after US Airways Flight 1549 strikes a flock of geese. Miraculously, all of the 155 passengers and crew survive the harrowing ordeal, and Sullenberger becomes a national hero in the eyes of the public and the media. Despite the accolades, the famed pilot now faces an investigation that threatens to destroy his career and reputation.
+    Actors: Tom Hanks, Aaron Eckhart, Laura Linney
+    IMDB Rating: 7.5 
+    Tomato Rating: 85% 
+------------------------------------------------------------
+
+
+    Song Name: "Go F**k Yourself GFY" 
+    Album Name:  Single
+    Artist Name: Shaggy 
+    URL:  
+------------------------------------------------------------
+
+
+    Title: Reno 911!: Miami 
+    Year: 2007 
+    Rated: R 
+    Country: USA 
+    Language: English 
+    Plot: On Jan. 15, 2009, Capt. Chesley "Sully" Sullenberger (Tom Hanks) tries to make an emergency landing in New York's Hudson River after US Airways Flight 1549 strikes a flock of geese. Miraculously, all of the 155 passengers and crew survive the harrowing ordeal, and Sullenberger becomes a national hero in the eyes of the public and the media. Despite the accolades, the famed pilot now faces an investigation that threatens to destroy his career and reputation.
+    Actors: Thomas Lennon, Robert Ben Garant, Kerri Kenney-Silver
+    IMDB Rating: 6 
+    Tomato Rating: 34% 
+------------------------------------------------------------
+
